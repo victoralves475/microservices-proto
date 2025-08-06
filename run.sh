@@ -34,3 +34,5 @@ go mod tidy || true
 #git tag -fa ch03/listing_3.2/golang/${SERVICE_NAME}/${RELEASE_VERSION} \
 #  -m "ch03/listing_3.2/golang/${SERVICE_NAME}/${RELEASE_VERSION}"
 #git push origin refs/tags/ch03/listing_3.2/golang/${SERVICE_NAME}/${RELEASE_VERSION}
+#teste
+#test
